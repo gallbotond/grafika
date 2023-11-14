@@ -41,11 +41,13 @@ int GoTo(double x, double y)
 	}
 	return 0;
 }
+
 void MouseMove(int x, int y)
 {
 	if (GoTo(x, y) == 1)
 		glutPostRedisplay();
 }
+
 void init(void)
 {
 	glClearColor(0.0, 0.0, 0.0, 0.0);         // a törlőszín a fekete 

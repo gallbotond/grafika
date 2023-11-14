@@ -1,2 +1,3 @@
-﻿  grafika1.cpp
-  grafika1.vcxproj -> C:\Users\Administrator\Documents\Github\grafika\grafika2\Debug\grafika1.exe
+﻿grafika1.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ) already defined in g3.obj
+grafika1.obj : error LNK2005: "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) already defined in g3.obj
+F:\Documents\GitHub\grafika\grafika2\Debug\grafika1.exe : fatal error LNK1169: one or more multiply defined symbols found

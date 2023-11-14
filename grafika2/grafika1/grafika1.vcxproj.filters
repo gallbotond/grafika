@@ -32,6 +32,9 @@
     <ClCompile Include="grafika1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="g3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="grafika1.rc">
