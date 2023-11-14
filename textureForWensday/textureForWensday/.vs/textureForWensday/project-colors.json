@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e32e13d2-6b03-4bc0-a916-7dc23ed63afe": {
+      "ProjectGuid": "e32e13d2-6b03-4bc0-a916-7dc23ed63afe",
+      "DisplayName": "textureForWensday",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
