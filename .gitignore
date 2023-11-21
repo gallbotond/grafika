@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/grafika1/.vs/grafika1/FileContentIndex/2daba5ec-1c5d-445e-99f6-fc4be1aaca18.vsidx
+/grafika1/.vs/grafika1/v17/.suo
+/grafika1/.vs/grafika1/v17/Browse.VC.db
+/grafika1/.vs/grafika1/v17/ipch/AutoPCH/f395def96c7952e4/GRAFIKA1.ipch
+/grafika1/grafika1/Debug/grafika1.tlog/Cl.items.tlog
+/grafika1/grafika1/Debug/vc143.idb
+/grafika1/grafika1/Debug/vc143.pdb
+/grafika2/.vs/grafika1/FileContentIndex/88cf9673-8c52-47f5-a116-3c0057ac03bc.vsidx
+/grafika2/.vs/grafika1/FileContentIndex/b20e7738-ce0a-4ad1-9d09-b92c655180e7.vsidx
+/grafika2/.vs/grafika1/v17/Browse.VC.db
+/grafika2/.vs/grafika1/v17/Browse.VC.db-shm
+/grafika2/.vs/grafika1/v17/Browse.VC.db-wal
+/grafika2/.vs/grafika1/v17/Browse.VC.opendb
