@@ -1,9 +1,9 @@
 ﻿  grafika1.cpp
-C:\Users\Administrator\Documents\Github\grafika\grafika1\grafika1\grafika1.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Administrator\Documents\Github\grafika\grafika1\grafika1\grafika1.cpp(55,24): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Administrator\Documents\Github\grafika\grafika1\grafika1\grafika1.cpp(57,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Administrator\Documents\Github\grafika\grafika1\grafika1\grafika1.cpp(65,24): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Administrator\Documents\Github\grafika\grafika1\grafika1\grafika1.cpp(67,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Administrator\Documents\Github\grafika\grafika1\grafika1\grafika1.cpp(77,24): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Administrator\Documents\Github\grafika\grafika1\grafika1\grafika1.cpp(79,25): warning C4018: '<': signed/unsigned mismatch
-  grafika1.vcxproj -> C:\Users\Administrator\Documents\Github\grafika\grafika1\Debug\grafika1.exe
+F:\Documents\GitHub\grafika\grafika1\grafika1\grafika1.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
+F:\Documents\GitHub\grafika\grafika1\grafika1\grafika1.cpp(55,24): warning C4018: '<': signed/unsigned mismatch
+F:\Documents\GitHub\grafika\grafika1\grafika1\grafika1.cpp(57,25): warning C4018: '<': signed/unsigned mismatch
+F:\Documents\GitHub\grafika\grafika1\grafika1\grafika1.cpp(65,24): warning C4018: '<': signed/unsigned mismatch
+F:\Documents\GitHub\grafika\grafika1\grafika1\grafika1.cpp(67,25): warning C4018: '<': signed/unsigned mismatch
+F:\Documents\GitHub\grafika\grafika1\grafika1\grafika1.cpp(77,24): warning C4018: '<': signed/unsigned mismatch
+F:\Documents\GitHub\grafika\grafika1\grafika1\grafika1.cpp(79,25): warning C4018: '<': signed/unsigned mismatch
+  grafika1.vcxproj -> F:\Documents\GitHub\grafika\grafika1\Debug\grafika1.exe
