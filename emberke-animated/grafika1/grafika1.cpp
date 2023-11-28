@@ -54,9 +54,9 @@ void init(void)
 
 void display(void)
 {
-	glClear(GL_COLOR_BUFFER_BIT);             //töröljük a képernyőt
-	glPushMatrix();
-	glEnable(GL_POINT_SMOOTH);
+	glClear(GL_COLOR_BUFFER_BIT); // This line clears the color buffer, effectively clearing the screen
+	glPushMatrix(); // This line saves the current transformation matrix. This is useful for isolating transformations
+	glEnable(GL_POINT_SMOOTH); // This line enables point smoothing, which can make points look better by making them circular instead of square.
 
 	glPointSize(5);
 
@@ -115,7 +115,7 @@ int APIENTRY wWinMain(IN HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, 
 {
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB); // az ablak kétszeresen pufferelt,és RGB módú 
 	glutInitWindowSize(700, 600);                // az ablak 700x600-as 
-	glutInitWindowPosition(100, 100);            // az ablak bal felső sarkának koordinátája 
+	glutInitWindowPosition(0, 100);            // az ablak bal felső sarkának koordinátája 
 	glutCreateWindow("Pontok");                  // neve Pontok 
 	init();                                      // inicializálás 
 	glutDisplayFunc(display);                    // a képernyő események kezelése 
